@@ -1,2 +1,2 @@
-# C30
-Angry Birds game with disappearing pigs.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
